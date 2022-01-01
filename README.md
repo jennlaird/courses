@@ -1,13 +1,4 @@
----
-title: "Courses"
-author: "Jennifer Laird"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    theme: cosmo
----
+
 
 - [Methods of Social Research](methods_social_research.Rmd) <br> 
 This course considers the logic and tools sociologists use to study social problems in a scientific way.
