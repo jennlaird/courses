@@ -1,4 +1,4 @@
-## Course Description 
+## Methods of Social Research
 
 As a social science, sociology generally follows the scientific method in an effort to describe and interpret the social world. This course considers the logic and tools sociologists use to study social problems in a scientific way. Without those tools, the discussion of social problems can deteriorate into expressions of opinions and observations based on personal experience. 
 
