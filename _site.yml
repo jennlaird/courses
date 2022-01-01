@@ -1,7 +1,12 @@
-name: "soc353-visualizing-data"
+name: "Courses"
 output_dir: "."
 navbar:
-  title: "SOC 353 Visualizing Data""
+  title: "Courses"
   left:
-    - text: "Overview"
+    - text: "Courses Taught"
       href: index.html
+    - text: "Visualizing Data"
+      href: data_viz.html
+    - text: "Methods of Social Research"
+      href: methods_social_research.html
+
