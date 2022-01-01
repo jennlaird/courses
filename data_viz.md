@@ -13,8 +13,7 @@ By the end of the course students will be able to:
 
 ## Required Textbook
 
-The textbook for this course is "Data Visualization: A Practical Introduction" by Kieran Healy. It is available for free online at: 
-https://socviz.co/index.html
+The textbook for this course is [Data Visualization: A Practical Introduction](https://socviz.co/index.html) by Kieran Healy. 
 
 
 
