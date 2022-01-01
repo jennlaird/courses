@@ -1,3 +1,4 @@
+## Visualizing Data
 
 This course is an introduction to data visualization. Emphasis is placed on the principles of effective visualization using real data and the implementation of recommended techniques using statistical programming. 
 
