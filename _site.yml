@@ -1,0 +1,7 @@
+name: "soc353-visualizing-data"
+output_dir: "."
+navbar:
+  title: "SOC 353 Visualizing Data""
+  left:
+    - text: "Overview"
+      href: index.html
